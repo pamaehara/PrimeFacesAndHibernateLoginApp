@@ -88,7 +88,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>TesteIntelipostApp</finalName>
+		<finalName>PrimeFacesAndHibernateLoginApp</finalName>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
